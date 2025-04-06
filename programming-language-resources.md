@@ -108,5 +108,5 @@
   - [Ruby Fu](https://rubyfu.net/)
   - [Ruby Koans](http://rubykoans.com/)
 
-- Other Language 2
+- Other Language
 - etc
